@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @1337isnot1337
 - 👀 I’m interested in coding, Linux, and FOSS
-- 🌱 I’m currently learning Rust
+- 🦀 I code Rust, but I know some Java and Bash
 - 😄 Pronouns: they/them
 - ⚡ Fun fact: this is a bad fun fact
 
