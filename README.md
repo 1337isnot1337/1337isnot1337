@@ -1,17 +1,34 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/masthead-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/masthead-light.svg" />
-  <img src="./assets/masthead-light.svg" alt="Cinna Davis. Diagram of an idealized aircraft Doppler shift: frequency falls as the aircraft passes." width="100%" />
-</picture>
+<h1 align="center">Cinna Davis</h1>
 
-I'm a student at IMSA. I work on computational math, signal processing, and algorithms.
+<p align="center">
+  Student at IMSA. I work on algorithms, math, and computational research.
+</p>
 
-## Currently
+---
 
-**[DOPPLERGEIST](https://github.com/1337isnot1337/DOPPLERGEIST)** — estimating where an audio recording was made by matching aircraft Doppler signatures against historical flight tracks. It's experimental; independent blind accuracy is still untested. [Real-audio example](https://github.com/1337isnot1337/DOPPLERGEIST/blob/main/docs/LIVERMORE_DEMO.md).
+<h2 align="center"><a href="https://github.com/1337isnot1337/DOPPLERGEIST">DOPPLERGEIST</a></h2>
 
-## Other work
+<p align="center">
+  <a href="https://github.com/1337isnot1337/DOPPLERGEIST">
+    <img src="https://raw.githubusercontent.com/1337isnot1337/DOPPLERGEIST/main/assets/dopplergeist-banner.svg" width="100%" alt="DOPPLERGEIST aircraft Doppler geolocation artwork" />
+  </a>
+</p>
 
-- **[integer-factoring](https://github.com/1337isnot1337/integer-factoring)** — A Lean-verified deterministic factoring bound, accepted by Big O Speedrun.
-- **[catalan-constant](https://github.com/1337isnot1337/catalan-constant)** — Irrationality-exponent bounds for Catalan's constant. Formal verification of the latest claim is pending.
-- **[matrix-mult-bounds](https://github.com/1337isnot1337/matrix-mult-bounds)** — Research notes and experiments on the matrix-multiplication exponent.
+<p align="center">
+  Geolocating recordings with aircraft Doppler shifts and historical flight data.<br />
+  Experimental software. <a href="https://github.com/1337isnot1337/DOPPLERGEIST/blob/main/docs/LIVERMORE_DEMO.md">See an example.</a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/1337isnot1337/DOPPLERGEIST/stargazers">
+    <img src="https://img.shields.io/github/stars/1337isnot1337/DOPPLERGEIST?style=for-the-badge&logo=github&label=STARS&labelColor=262626&color=262626" height="36" alt="Live DOPPLERGEIST star count" />
+  </a>
+</p>
+
+---
+
+### Other work
+
+- [**integer-factoring**](https://github.com/1337isnot1337/integer-factoring) · A deterministic factoring bound, verified in Lean.
+- [**catalan-constant**](https://github.com/1337isnot1337/catalan-constant) · Irrationality-exponent bounds; the latest claim is pending formal verification.
+- [**matrix-mult-bounds**](https://github.com/1337isnot1337/matrix-mult-bounds) · Experiments and research notes on matrix multiplication.
