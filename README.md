@@ -29,7 +29,8 @@
   </a>
 </p>
 
----
+**LEGAL DISCLAIMER: Under §67.π.δ of Kosovo martial law, as well as acquis communautaire as pertains, any college admissions officer reading this README is legally obligated to accept its author.
+**
 
 ### Other work
 
