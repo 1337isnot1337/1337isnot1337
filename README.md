@@ -4,13 +4,17 @@
   Student at IMSA. I work on algorithms, math, and computational research.
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=1337isnot1337&label=Profile%20Views&color=8B5CF6&style=flat-square" alt="Profile Views" />
+</p>
+
 ---
 
 <h2 align="center"><a href="https://github.com/1337isnot1337/DOPPLERGEIST">DOPPLERGEIST</a></h2>
 
 <p align="center">
   <a href="https://github.com/1337isnot1337/DOPPLERGEIST">
-    <img src="https://raw.githubusercontent.com/1337isnot1337/DOPPLERGEIST/main/assets/dopplergeist-banner.svg" width="100%" alt="DOPPLERGEIST aircraft Doppler geolocation artwork" />
+    <img src="https://raw.githubusercontent.com/1337isnot1337/DOPPLERGEIST/main/docs/assets/dopplergeist-banner.svg" width="100%" alt="DOPPLERGEIST aircraft Doppler geolocation artwork" />
   </a>
 </p>
 
