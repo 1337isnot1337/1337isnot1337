@@ -35,7 +35,8 @@
 
 ### Other work
 
-- [**solved-conjectures**](https://github.com/1337isnot1337/solved-conjectures) · Proofs and counterexamples in combinatorics and number theory, with Lean formalizations and verification notes.
+- [**solved-conjectures**](https://github.com/1337isnot1337/solved-conjectures) · Proofs and counterexamples in combinatorics and number theory, with Lean 4 formalizations. [Search the catalogue](https://1337isnot1337.github.io/solved-conjectures/) · [Verification status](https://github.com/1337isnot1337/solved-conjectures/blob/main/docs/lean-status.md).
 - [**integer-factoring**](https://github.com/1337isnot1337/integer-factoring) · A deterministic factoring bound, verified in Lean.
 - [**catalan-constant**](https://github.com/1337isnot1337/catalan-constant) · Irrationality-exponent bounds; the latest claim is pending formal verification.
 - [**matrix-mult-bounds**](https://github.com/1337isnot1337/matrix-mult-bounds) · Experiments and research notes on matrix multiplication.
+
