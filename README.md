@@ -5,6 +5,10 @@
 </p>
 
 <p align="center">
+  <a href="https://1337isnot1337.github.io/"><strong>Project shelf · Interactive demos</strong></a>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=1337isnot1337&label=Profile%20Views&color=8B5CF6&style=flat-square" alt="Profile Views" />
 </p>
 
@@ -31,6 +35,7 @@
 
 ### Other work
 
+- [**solved-conjectures**](https://github.com/1337isnot1337/solved-conjectures) · Proofs and counterexamples in combinatorics and number theory, with Lean formalizations and verification notes.
 - [**integer-factoring**](https://github.com/1337isnot1337/integer-factoring) · A deterministic factoring bound, verified in Lean.
 - [**catalan-constant**](https://github.com/1337isnot1337/catalan-constant) · Irrationality-exponent bounds; the latest claim is pending formal verification.
 - [**matrix-mult-bounds**](https://github.com/1337isnot1337/matrix-mult-bounds) · Experiments and research notes on matrix multiplication.
