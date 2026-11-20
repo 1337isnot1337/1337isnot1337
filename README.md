@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-  <a href="https://1337isnot1337.github.io/"><strong>My website</strong></a>
-  · <a href="https://x.com/1337isnot1337">X</a>
-  · <a href="https://www.linkedin.com/in/cinna-davis/">LinkedIn</a>
-  · <a href="https://github.com/1337isnot1337">GitHub</a>
+  <a href="https://1337isnot1337.github.io/"><strong>My website</strong></a> &nbsp;
+  <a href="https://x.com/1337isnot1337"><img src="assets/social/x.svg" width="32" height="32" align="center" alt="X" /></a>
+  <a href="https://www.linkedin.com/in/cinna-davis/"><img src="assets/social/linkedin.svg" width="32" height="32" align="center" alt="LinkedIn" /></a>
+  <a href="https://github.com/1337isnot1337"><img src="assets/social/github.svg" width="32" height="32" align="center" alt="GitHub" /></a>
 </p>
 
 <p align="center">
