@@ -6,6 +6,9 @@
 
 <p align="center">
   <a href="https://1337isnot1337.github.io/"><strong>My website</strong></a>
+  · <a href="https://x.com/1337isnot1337">X</a>
+  · <a href="https://www.linkedin.com/in/cinna-davis/">LinkedIn</a>
+  · <a href="https://github.com/1337isnot1337">GitHub</a>
 </p>
 
 <p align="center">
