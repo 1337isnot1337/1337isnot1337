@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://1337isnot1337.github.io/"><strong>Project shelf · Interactive demos</strong></a>
+  <a href="https://1337isnot1337.github.io/"><strong>My website</strong></a>
 </p>
 
 <p align="center">
