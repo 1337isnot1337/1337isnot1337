@@ -5,19 +5,19 @@
 </p>
 
 <p align="center">
-  <a href="https://1337isnot1337.github.io/"><strong>My website</strong></a> &nbsp;
+  <a href="https://itsdavis.com/"><strong>My website</strong></a> &nbsp;
   <a href="https://x.com/1337isnot1337"><img src="assets/social/x.svg" width="32" height="32" align="center" alt="X" /></a>
   <a href="https://www.linkedin.com/in/cinna-davis/"><img src="assets/social/linkedin.svg" width="32" height="32" align="center" alt="LinkedIn" /></a>
   <a href="https://github.com/1337isnot1337"><img src="assets/social/github.svg" width="32" height="32" align="center" alt="GitHub" /></a>
 </p>
 
 <p align="center">
-  <a href="https://1337isnot1337.github.io/#flyover"><img src="https://1337isnot1337.github.io/assets/furniture/prints/flyover.webp" width="13%" alt="DOPPLERGEIST" /></a>
-  <a href="https://1337isnot1337.github.io/#factoring"><img src="https://1337isnot1337.github.io/assets/furniture/prints/factoring-bead.webp" width="13%" alt="Integer factoring" /></a>
-  <a href="https://1337isnot1337.github.io/#cpu"><img src="https://1337isnot1337.github.io/assets/furniture/prints/cpu-switch.webp" width="13%" alt="The Hack CPU" /></a>
-  <a href="https://1337isnot1337.github.io/#schedule"><img src="https://1337isnot1337.github.io/assets/furniture/prints/schedule.webp" width="13%" alt="Schedule map" /></a>
-  <a href="https://1337isnot1337.github.io/#conway"><img src="https://1337isnot1337.github.io/assets/furniture/prints/conway.webp" width="13%" alt="Conway’s 99-graph" /></a>
-  <a href="https://1337isnot1337.github.io/#conjectures"><img src="https://1337isnot1337.github.io/assets/furniture/prints/conjectures.webp" width="13%" alt="Solved conjectures" /></a>
+  <a href="https://itsdavis.com/#flyover"><img src="https://itsdavis.com/assets/furniture/prints/flyover.webp" width="13%" alt="DOPPLERGEIST" /></a>
+  <a href="https://itsdavis.com/#factoring"><img src="https://itsdavis.com/assets/furniture/prints/factoring-bead.webp" width="13%" alt="Integer factoring" /></a>
+  <a href="https://itsdavis.com/#cpu"><img src="https://itsdavis.com/assets/furniture/prints/cpu-switch.webp" width="13%" alt="The Hack CPU" /></a>
+  <a href="https://itsdavis.com/#schedule"><img src="https://itsdavis.com/assets/furniture/prints/schedule.webp" width="13%" alt="Schedule map" /></a>
+  <a href="https://itsdavis.com/#conway"><img src="https://itsdavis.com/assets/furniture/prints/conway.webp" width="13%" alt="Conway’s 99-graph" /></a>
+  <a href="https://itsdavis.com/#conjectures"><img src="https://itsdavis.com/assets/furniture/prints/conjectures.webp" width="13%" alt="Solved conjectures" /></a>
 </p>
 
 <p align="center">
@@ -47,7 +47,7 @@
 
 ### Other work
 
-- [**solved-conjectures**](https://github.com/1337isnot1337/solved-conjectures) · Proofs and counterexamples in combinatorics and number theory, with Lean 4 formalizations. [Search the catalogue](https://1337isnot1337.github.io/solved-conjectures/) · [Verification status](https://github.com/1337isnot1337/solved-conjectures/blob/main/docs/lean-status.md).
+- [**solved-conjectures**](https://github.com/1337isnot1337/solved-conjectures) · Proofs and counterexamples in combinatorics and number theory, with Lean 4 formalizations. [Search the catalogue](https://itsdavis.com/solved-conjectures/) · [Verification status](https://github.com/1337isnot1337/solved-conjectures/blob/main/docs/lean-status.md).
 - [**integer-factoring**](https://github.com/1337isnot1337/integer-factoring) · A deterministic factoring bound, verified in Lean.
 - [**catalan-constant**](https://github.com/1337isnot1337/catalan-constant) · Irrationality-exponent bounds. The latest claim is pending formal verification.
 - [**matrix-mult-bounds**](https://github.com/1337isnot1337/matrix-mult-bounds) · Experiments and research notes on matrix multiplication.
