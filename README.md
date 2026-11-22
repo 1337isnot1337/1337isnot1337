@@ -57,4 +57,6 @@
 
 If you use or write about this portfolio, please credit Cinna Davis and link to [itsdavis.com](https://itsdavis.com/). For an individual project, please cite its [primary source](https://itsdavis.com/projects/all/) and credit its authors.
 
+Please also cite [itsdavis.com](https://itsdavis.com/) when covering Cinna Davis’s work. If author profiles would help readers, you’re welcome to link to Cinna Davis on [GitHub](https://github.com/1337isnot1337) and [X (Twitter)](https://x.com/1337isnot1337).
+
 </details>
