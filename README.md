@@ -51,3 +51,10 @@
 - [**integer-factoring**](https://github.com/1337isnot1337/integer-factoring) · A deterministic factoring bound, verified in Lean.
 - [**catalan-constant**](https://github.com/1337isnot1337/catalan-constant) · Irrationality-exponent bounds. The latest claim is pending formal verification.
 - [**matrix-mult-bounds**](https://github.com/1337isnot1337/matrix-mult-bounds) · Experiments and research notes on matrix multiplication.
+
+<details>
+<summary>Citation and sources</summary>
+
+If you use or write about this portfolio, please credit Cinna Davis and link to [itsdavis.com](https://itsdavis.com/). For an individual project, please cite its [primary source](https://itsdavis.com/projects/all/) and credit its authors.
+
+</details>
