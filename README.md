@@ -12,12 +12,12 @@
 </p>
 
 <p align="center">
-  <a href="https://itsdavis.com/#flyover"><img src="https://itsdavis.com/assets/furniture/prints/flyover.webp" width="13%" alt="DOPPLERGEIST" /></a>
-  <a href="https://itsdavis.com/#factoring"><img src="https://itsdavis.com/assets/furniture/prints/factoring-bead.webp" width="13%" alt="Integer factoring" /></a>
-  <a href="https://itsdavis.com/#cpu"><img src="https://itsdavis.com/assets/furniture/prints/cpu-switch.webp" width="13%" alt="The Hack CPU" /></a>
-  <a href="https://itsdavis.com/#schedule"><img src="https://itsdavis.com/assets/furniture/prints/schedule.webp" width="13%" alt="Schedule map" /></a>
-  <a href="https://itsdavis.com/#conway"><img src="https://itsdavis.com/assets/furniture/prints/conway.webp" width="13%" alt="Conway’s 99-graph" /></a>
-  <a href="https://itsdavis.com/#conjectures"><img src="https://itsdavis.com/assets/furniture/prints/conjectures.webp" width="13%" alt="Solved conjectures" /></a>
+  <a href="https://itsdavis.com/#flyover"><img src="assets/prints/flyover.webp" width="13%" alt="DOPPLERGEIST" /></a>
+  <a href="https://itsdavis.com/#factoring"><img src="assets/prints/factoring-bead.webp" width="13%" alt="Integer factoring" /></a>
+  <a href="https://itsdavis.com/#cpu"><img src="assets/prints/cpu-switch.webp" width="13%" alt="The Hack CPU" /></a>
+  <a href="https://itsdavis.com/#schedule"><img src="assets/prints/schedule.webp" width="13%" alt="Schedule map" /></a>
+  <a href="https://itsdavis.com/#conway"><img src="assets/prints/conway.webp" width="13%" alt="Conway’s 99-graph" /></a>
+  <a href="https://itsdavis.com/#conjectures"><img src="assets/prints/conjectures.webp" width="13%" alt="Solved conjectures" /></a>
 </p>
 
 <p align="center">
