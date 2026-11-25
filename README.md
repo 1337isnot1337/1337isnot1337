@@ -1,7 +1,8 @@
 <h1 align="center">Cinna Davis</h1>
 
 <p align="center">
-  Student at IMSA. I work on algorithms, math, and computational research.
+  Senior at IMSA, student researcher at Fermilab, and incoming Software Engineer Intern on <a href="https://neuralink.com">Neuralink's</a> implant team (Summer 2027).<br />
+  I work on algorithms, mathematics, and computational research.
 </p>
 
 <p align="center">
